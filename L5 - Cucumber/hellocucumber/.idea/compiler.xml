@@ -6,9 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="L4" />
-        <module name="L5" />
-        <module name="L3" />
+        <module name="hellocucumber" />
       </profile>
     </annotationProcessing>
   </component>
