@@ -1,3 +1,6 @@
 [submodule "L5"]
 	path = L6
 	url = git@github.com:ElectroluxV2/TAU---Simple-Game.git
+[submodule "L7"]
+	path = L7
+	url = https://github.com/hoantran-it/jmeter-webload-example
